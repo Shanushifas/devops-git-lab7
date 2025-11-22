@@ -1,2 +1,6 @@
 thisis the feature7 content
+<<<<<<< HEAD
 a local change made on $ date
+=======
+this is an update from github
+>>>>>>> d250cf2a7f87109fb87693734a45a4814e6f6423
